@@ -7,15 +7,14 @@ output: html_document
 
 
 Kiwon
-
 wh1988ha@gmail.com
-
 [USEWORLD](http://kiwon.github.io/useworld.homepage/)
 
 
 
 ## Introduction
-R 프로그래밍 저장소 입니다.
+R 공부한 내용을 정리한 예제 저장소 입니다.
+
 
 
 
