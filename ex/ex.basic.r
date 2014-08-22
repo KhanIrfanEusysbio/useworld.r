@@ -17,6 +17,14 @@ setwd('./'); # set work directory
 
 # General ------------------------------------------
 
+x <- 1
+x.1 <- 2
+y <- 2
+sqrt(x.1)
+abs(-14)
+alx(x.1)
+
+
 installed.packages(); # Display all installed packages
 
 sink("output.txt") #Divert output from console to file
