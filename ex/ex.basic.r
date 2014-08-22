@@ -1,25 +1,22 @@
 
 
-#####################################
-# Getting help
-#####################################
+# Getting help ------------------------------------------
+
 ?plot
 help(plot)
 ??plot
 
 
 
-#####################################
-# directory
-#####################################
+# directory ------------------------------------------
+
 getwd(); # get work directory
 setwd('./'); # set work directory
 
 
 
-#####################################
-# General
-#####################################
+# General ------------------------------------------
+
 installed.packages(); # Display all installed packages
 
 sink("output.txt") #Divert output from console to file
