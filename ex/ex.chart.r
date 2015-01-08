@@ -45,16 +45,3 @@ barplot(tbl01, beside = T, legend.text =c("Non-Smoke", "Smoke"), main="Gender an
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
